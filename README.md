@@ -3,6 +3,8 @@
 
 This project arose from the idea of creating a screen stabilizer for people who suffer from hand tremors.
 
+https://webbrowsertools.com/screen-size/
+
 ### Topics
   - [ ] Calculate pixel size
   - [ ] Calculate movement
